@@ -6,17 +6,16 @@
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/doordash-marketing-campaign-analysis.png?raw=true"/>
+For this project, I explored how MS Excel can be a good tool for marketing campaign analysis. Note that it's a small data, thus Excel is susfficient.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [External Link Project](https://www.fauzan.io/market-research-analysis/)
+[<img src="images/malaysia-top-5-language-market-research-analysis.png ?raw=true"/>](https://www.fauzan.io/market-research-analysis/)
+My final write up for a market research analysis on Malaysia top searched language beyond English & Malay. 
 
 ---
 
