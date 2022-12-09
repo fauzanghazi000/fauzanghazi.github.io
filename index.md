@@ -14,7 +14,7 @@ For this project, I explored how MS Excel can be a good tool for marketing campa
 
 ---
 #### [External Link Project](https://www.fauzan.io/market-research-analysis/)
-[<img src="images/malaysia-top-5-language-market-research-analysis.png ?raw=true"/>](https://www.fauzan.io/market-research-analysis/)
+[<img src="images/malaysia-top-5-language-market-research-analysis.png?raw=true"/>](https://www.fauzan.io/market-research-analysis/)
 My final write up for a market research analysis on Malaysia top searched language beyond English & Malay. 
 
 ---
