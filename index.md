@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project](/files/Doordash-Marketing-Campaign-Analysis.pdf)
 <img src="images/doordash-marketing-campaign-analysis.png?raw=true"/>
 For this project, I explored how MS Excel can be a good tool for marketing campaign analysis. Note that it's a small data, thus Excel is susfficient.
 
