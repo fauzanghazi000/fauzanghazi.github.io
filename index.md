@@ -1,13 +1,6 @@
 # My Data Analytics Portfolio
 
 ---
-
-### General Analytics Projects
-
-#### [Internal Blog Post Project](/sample_project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 #### [Linked File Project](/files/Doordash-Marketing-Campaign-Analysis.pdf)
 <img src="images/doordash-marketing-campaign-analysis.png?raw=true"/>
 For this project, I explored how MS Excel can be a good tool for marketing campaign analysis. Note that it's a small data, thus Excel is susfficient.
@@ -29,6 +22,10 @@ My final write up for a market research analysis on Malaysia top searched langua
 
 ---
 
+### General Analytics Projects
 
+#### [Internal Blog Post Project](/sample_project)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 
