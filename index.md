@@ -19,13 +19,13 @@ My final write up for a market research analysis on Malaysia top searched langua
 
 ---
 
-### Category Name 2
+### Project List
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1](https://www.fauzan.io/)
+- [Project 2](https://www.fauzan.io/)
+- [Project 3](https://www.fauzan.io/)
+- [Project 4](https://www.fauzan.io/)
+- [Project 5](https://www.fauzan.io/)
 
 ---
 
